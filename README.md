@@ -1,8 +1,5 @@
 # Datawiz Tutorial
 
 ## Table of contents
-Natural Language Processing
-  * <a href='#'>Text Classification</a><br>
-  * <a href='#'>Sentiment Analysis</a><br>
+1. <a href="9. Data aggregation in pandas.ipynb"> Data aggregation in pandas</a><br>
 
-Visualization
