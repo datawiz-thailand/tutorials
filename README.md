@@ -1,7 +1,6 @@
 # Datawiz Tutorial
 
-![](images/datawiz.png)
-
+<img src="images/datawiz.png" alt="datawiz" width="250"/>
 ## Table of contents
 
 
