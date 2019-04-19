@@ -1,9 +1,6 @@
-# Datawiz Tutorial
+<img src="images/datawiz.png" alt="datawiz" />
 
-<img src="images/datawiz.png" alt="datawiz" width="250"/>
-
-
-## Table of contents
+# Table of contents
 
 
 * [1_simple_Thai_text_preprocessing.ipynb](1_simple_Thai_text_preprocessing.ipynb)
