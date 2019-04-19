@@ -13,3 +13,19 @@
 * [7_basic_numpy.ipynb](7_basic_numpy.ipynb)
 * [8_regular_expression.ipynb](8_regular_expression.ipynb)
 * [9_data_aggregation_in_pandas.ipynb](9_data_aggregation_in_pandas.ipynb)
+
+
+## Coming soon
+
+### Thai NLP Tutorials
+* Text Processing
+* Text Vectorization
+	* Bag-of-words
+	* TF-IDF
+* Word Embedding
+	* Word2Vec
+	* FastText
+
+### Recommendation System
+
+### Time Series Prediction
