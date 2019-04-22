@@ -10,23 +10,22 @@
 
 ## Python Fundamentals
 
-* [7_basic_numpy.ipynb](7_basic_numpy.ipynb)
+* [Basic Numpy](python_fundamentals/basic_numpy.ipynb)
 
-* [8_regular_expression.ipynb](8_regular_expression.ipynb)
+* [Regular Expression](python_fundamentals/regular_expression.ipynb)
 
-* [9_data_aggregation_in_pandas.ipynb](9_data_aggregation_in_pandas.ipynb)
+* [Data Aaggregation in pandas](python_fundamentals/data_aggregation_in_pandas.ipynb)
 
 ## Data Visualization
 
 
-* [3_interactive_geo_plot_with_bokeh.ipynb ](3_interactive_geo_plot_with_bokeh.ipynb)
-* [4_decision_tree.ipynb](4_decision_tree.ipynb)
+* [Interactive_geo_plot_with_bokeh.ipynb ](data_visualization/3_interactive_geo_plot_with_bokeh.ipynb)
+* [Decision Tree](data_visualization/4_decision_tree.ipynb)
 
 
-## Natural Language Processing
-* [1_simple_Thai_text_preprocessing.ipynb](1_simple_Thai_text_preprocessing.ipynb)
-
+## [Natural Language Processing](natural_language_processing)
 * Text Processing
+* [Simple Thai text preprocessing](natural_language_processing/1_simple_Thai_text_preprocessing.ipynb)
 * Text Vectorization
 	* Bag-of-words
 	* TF-IDF
