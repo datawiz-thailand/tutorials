@@ -15,9 +15,7 @@
 * [9_data_aggregation_in_pandas.ipynb](9_data_aggregation_in_pandas.ipynb)
 
 
-## Coming soon
-
-### Thai NLP Tutorials
+## Thai NLP Tutorials
 * Text Processing
 * Text Vectorization
 	* Bag-of-words
@@ -26,6 +24,6 @@
 	* Word2Vec
 	* FastText
 
-### Recommendation System
+## Recommendation System
 
-### Time Series Prediction
+## Time Series Prediction
