@@ -1,12 +1,6 @@
 <img src="images/datawiz.png" alt="datawiz" />
 
-# Table of contents
-
-
-
-
-
-
+# Tutorials
 
 ## Python Fundamentals
 
@@ -39,12 +33,10 @@
 
 ## Machine Learning
 
-* [2_simple_auto_backward_elimination_for_linear_regression.ipynb](2_simple_auto_backward_elimination_for_linear_regression.ipynb)
+* [Simple_auto_backward_elimination_for_linear_regression.ipynb](machine_learning/simple_auto_backward_elimination_for_linear_regression.ipynb)
+
+* [Random Foest x Fastai](machine_learning/rf_x_fastai.ipynb)
 
 
-
-* [5_rf_x_fastai.ipynb](5_rf_x_fastai.ipynb)
-
-
-* [6_stock_forecasting_CNN.ipynb](6_stock_forecasting_CNN.ipynb)
-* [6_stock_forecasting_LSTM.ipynb](6_stock_forecasting_LSTM.ipynb)
+* [Stock Forecasting CNN](machine_learning/stock_forecasting_CNN.ipynb)
+* [Stock Forecasting LSTM](machine_learning/stock_forecasting_LSTM.ipynb)
