@@ -41,9 +41,9 @@
 stock_list = ['KBANK','SCB','BBL','KTB']
 ```
 
-* [Stock Prediction CNN](stock_prediction/stock_forecasting_CNN.ipynb)
-* [Stock Prediction LSTM](stock_prediction/stock_forecasting_LSTM.ipynb)
-* [Stock Prediction LSTM Pytorch](stock_prediction/stock_forecast_lstm_pytorch.ipynb)
+* [Stock Prediction CNN](stock_prediction/stock_prediction_CNN.ipynb)
+* [Stock Prediction LSTM](stock_prediction/stock_prediction_LSTM.ipynb)
+* [Stock Prediction LSTM Pytorch](stock_prediction/stock_prediction_lstm_pytorch.ipynb)
 
 ![LSTM_pytorch](stock_prediction/docs/LSTM_pytorch.png)
 
