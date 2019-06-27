@@ -2,7 +2,7 @@
 
 # Tutorials
 
-## Python Fundamentals
+## 1. Python Fundamentals
 
 * [Basic Numpy](python_fundamentals/basic_numpy.ipynb)
 
@@ -10,31 +10,27 @@
 
 * [Data Aaggregation in pandas](python_fundamentals/data_aggregation_in_pandas.ipynb)
 
-## Data Visualization
-* [Interactive_geo_plot_with_bokeh.ipynb ](data_visualization/interactive_geo_plot_with_bokeh.ipynb)
-* [Decision Tree](data_visualization/decision_tree.ipynb)
+
+## 2. Machine Learning
+
+### Fundamentals
+* [Decision Tree](machine_learning/decision_tree.ipynb)
+* [Random Forest x Fastai](machine_learning/rf_x_fastai.ipynb)
+
+### Stock Prediction
+* [Stock Forecasting CNN](stock_prediction/stock_forecasting_CNN.ipynb)
+* [Stock Forecasting LSTM](stock_prediction/stock_forecasting_LSTM.ipynb)
+* [Stock Forecast LSTM Pytorch](stock_prediction/stock_forecast_lstm_pytorch.ipynb)
 
 
-## Natural Language Processing
+### Natural Language Processing
 * [Simple Thai text preprocessing](natural_language_processing/simple_Thai_text_preprocessing.ipynb)
-* Text Vectorization
-	* Bag-of-words
-	* TF-IDF
-* Word Embedding
-	* Word2Vec
-	* FastText
-
-## Machine Learning
-
-* [Simple_auto_backward_elimination_for_linear_regression.ipynb](machine_learning/simple_auto_backward_elimination_for_linear_regression.ipynb)
-
-* [Random Foest x Fastai](machine_learning/rf_x_fastai.ipynb)
 
 
-* [Stock Forecasting CNN](machine_learning/stock_forecasting_CNN.ipynb)
-* [Stock Forecasting LSTM](machine_learning/stock_forecasting_LSTM.ipynb)
+
+## 3. Data Analytics
+
+### Visualization
+* [Interactive_geo_plot_with_bokeh.ipynb ](data_visualization/interactive_geo_plot_with_bokeh.ipynb)
 
 
-## Recommendation System
-
-## Time Series Prediction
