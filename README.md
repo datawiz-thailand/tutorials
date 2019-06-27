@@ -36,10 +36,16 @@
 * [Simple Auto Backward Elimination for Linear Regression](machine_learning/simple_auto_backward_elimination_for_linear_regression.ipynb) - Boston house price dataset
 
 ### Stock Prediction
+
+```python
+stock_list = ['KBANK','SCB','BBL','KTB']
+```
+
 * [Stock Prediction CNN](stock_prediction/stock_forecasting_CNN.ipynb)
 * [Stock Prediction LSTM](stock_prediction/stock_forecasting_LSTM.ipynb)
 * [Stock Prediction LSTM Pytorch](stock_prediction/stock_forecast_lstm_pytorch.ipynb)
 
+![LSTM_pytorch](stock_prediction/docs/LSTM_pytorch.png)
 
 ### Natural Language Processing
 * [Simple Thai Text Preprocessing](natural_language_processing/simple_Thai_text_preprocessing.ipynb)
