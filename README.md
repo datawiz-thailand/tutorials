@@ -25,7 +25,7 @@
 
 ## 2. Machine Learning
 
-### Fundamentals
+### 2.1 Fundamentals
 * [Decision Tree](machine_learning/decision_tree.ipynb)
 ![decision_tree](machine_learning/docs/decision_tree.png)
 
@@ -35,7 +35,7 @@
 
 * [Simple Auto Backward Elimination for Linear Regression](machine_learning/simple_auto_backward_elimination_for_linear_regression.ipynb) - Boston house price dataset
 
-### Stock Prediction
+### 2.2 Stock Prediction
 
 ```python
 stock_list = ['KBANK','SCB','BBL','KTB']
@@ -47,7 +47,7 @@ stock_list = ['KBANK','SCB','BBL','KTB']
 
 ![LSTM_pytorch](stock_prediction/docs/LSTM_pytorch.png)
 
-### Natural Language Processing
+### 2.3 Natural Language Processing
 * [Simple Thai Text Preprocessing](natural_language_processing/simple_Thai_text_preprocessing.ipynb)
 	- ลบ text ที่อยู่ในวงเล็บ <> ทั้งหมด
 	- ลบ hashtag
@@ -61,10 +61,13 @@ stock_list = ['KBANK','SCB','BBL','KTB']
 	- Bag of words + Word counts
 	- Bag of words + TF-IDF
 
+## 3. Computer Vision
 
-## 3. Data Analytics
 
-### Visualization
+
+## 4. Data Analytics
+
+### 4.1 Visualization
 * [Interactive Geoplot with Bokeh ](data_visualization/interactive_geo_plot_with_bokeh.ipynb)
 
 ![gmap](data_visualization/docs/gmap.png  "gmap")
@@ -72,5 +75,4 @@ stock_list = ['KBANK','SCB','BBL','KTB']
 * [Animations with Matplotlib](data_visualization/animations_with_matplotlib) 
 
 ![live_graph](data_visualization/animations_with_matplotlib/docs/live_graph.gif)
-
 
