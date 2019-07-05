@@ -1,3 +1,5 @@
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+
+natural_language_processing/data/pantip-tokenized.json
