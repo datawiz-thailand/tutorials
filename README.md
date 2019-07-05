@@ -63,6 +63,8 @@ stock_list = ['KBANK','SCB','BBL','KTB']
 
 ## 3. Computer Vision
 
+### 3.1 Image Recognition
+![](computer_vision/image_recognition/images/results.png)
 
 
 ## 4. Data Analytics
